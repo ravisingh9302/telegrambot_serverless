@@ -22,6 +22,3 @@ module.exports = async (request, response) => {
 };
 
 
-export const config = {
-    runtime: 'nodejs',
-};
