@@ -1,5 +1,5 @@
 // Require our Telegram helper package
-const TelegramBot = require('node-telegram-bot-api');
+import TelegramBot from 'node-telegram-bot-api';
 
 module.exports = async (request, response) => {
     try {
